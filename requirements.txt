@@ -1,6 +1,8 @@
 fastapi
 uvicorn
-pillow
 python-multipart
+pillow
 ultralytics
-onnxruntime
+opencv-python-headless
+numpy
+google-generativeai
